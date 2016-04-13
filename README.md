@@ -20,12 +20,12 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/keegoid/kms-theme/ "Theme - KMS"
+    git clone https://github.com/keegoid/kms-theme/ "kms-theme"
 
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - KMS`
+* Unzip the files and rename the folder to `kms-theme`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
 
