@@ -27,7 +27,7 @@ While inside the `Packages` directory, clone the theme repository:
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `kms-theme`
+* Unzip the files and rename the folder to `KMS Theme`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
 
