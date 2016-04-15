@@ -1,8 +1,8 @@
 # Keegoid's Monokai Spacegray (KMS) Theme
 
-Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
-
 A dark custom UI theme for Sublime Text 3.
+
+Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
 
 ## Design
 
@@ -18,9 +18,11 @@ You can install the theme and keep up to date by cloning the repo directly into 
 
 You can locate your Sublime Text `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
 
-While inside the `Packages` directory, clone the theme repository using the command below:
+While inside the `Packages` directory, clone the theme repository:
 
-    git clone https://github.com/keegoid/kms-theme/
+```bash
+    git clone https://github.com/keegoid/kms-theme.git "KMS Theme"
+```
 
 ### Download Manually
 
@@ -40,9 +42,11 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 
 **Example Sublime Text 3 User Settings**
 
+```
     {
         "theme": "KMS.sublime-theme"
     }
+```
 
 ## Code Font
 
