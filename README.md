@@ -6,7 +6,7 @@ Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
 
 ## Design
 
-![KMS Theme](http://keegoid.github.io/assets/img/screenshots/kms-theme.png)
+![Theme - KMS](http://keegoid.github.io/assets/img/screenshots/kms-theme.png)
 
 ## Installation
 
@@ -21,13 +21,13 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 While inside the `Packages` directory, clone the theme repository:
 
 ```bash
-    git clone https://github.com/keegoid/kms-theme.git "KMS Theme"
+    git clone https://github.com/keegoid/kms-theme.git "Theme - KMS"
 ```
 
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `KMS Theme`
+* Unzip the files and rename the folder to `Theme - KMS`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
 
